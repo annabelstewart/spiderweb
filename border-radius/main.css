@@ -1,0 +1,45 @@
+div {
+  height: 100px;
+  width: 100px;
+   padding:90px;
+   /* border:10px solid #021a40; */
+  border:10px dashed blue;
+  border-radius: 90%;
+  background-image: url("../challenge/html-challenge/pupper.jpg");
+  /* background-size: cover; - cover width of what we gave it?? check */
+  background-size: cover;
+    /* background-repeat: no-repeat; */
+  background-repeat: no-repeat;
+}
+
+.quatro {
+   padding:10px;
+   /* border:10px solid #021a40; */
+  border:10px solid purple;
+}
+
+
+
+
+/* img {
+   padding:10px;
+   /* border:10px solid #021a40; */
+  border:10px groove yellow;
+  border-radius: 500px;
+} */
+.uno {
+   padding:10px;
+   /* border:10px solid #021a40; */
+  border:10px dashed green;
+  border-radius: 80%;
+}
+.dos {
+   padding:10px;
+   /* border:10px solid #021a40; */
+  border:10px solid purple;
+}
+.tres {
+   padding:10px;
+   /* border:10px solid #021a40; */
+  border:10px groove black;
+}

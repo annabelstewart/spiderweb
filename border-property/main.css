@@ -1,0 +1,27 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: 15px solid blue;
+}
+
+img {
+   padding:10px;
+   /* border:10px solid #021a40; */
+  border:10px groove yellow;
+}
+.uno {
+   padding:10px;
+   /* border:10px solid #021a40; */
+  border:10px dashed green;
+}
+.dos {
+   padding:10px;
+   /* border:10px solid #021a40; */
+  border:10px solid purple;
+}
+.tres {
+   padding:10px;
+   /* border:10px solid #021a40; */
+  border:10px groove black;
+}
