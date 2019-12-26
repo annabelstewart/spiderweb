@@ -1,0 +1,32 @@
+div {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: 10px;
+    border: 20px groove red;
+    border-radius: 20px;
+  /* display: inline-block; displays divs in a horizontal line*/
+    display: inline-block;
+    background-image: url("../../000_img/pup.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+img {
+    width: 200px;
+    box-sizing: border-box;
+    border: 10px groove orangered;
+    padding: 20px;
+}
+
+.dogone {
+    border: 10px dashed orangered;
+}
+
+.dogtwo {
+    border: 10px dotted orangered;
+}
+
+.dogthree {
+    border: 10px double orangered;
+}
